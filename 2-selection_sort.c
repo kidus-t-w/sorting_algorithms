@@ -2,9 +2,8 @@
 
 /**
  * selection_sort - this function sorts an array using the
- *	selection sort algorithm
  *
- * @array: the array to be sorted
+ * @array: array to be sorted
  * @size: size of the array to be sorted
  *
  * Return: Nothing
