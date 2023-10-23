@@ -2,9 +2,8 @@
 
 /**
  * quick_sort - this function will sort an array using
- * the Quick Sort Algorithm
  *
- * @array: the array to be sorted
+ * @array: array to be sorted
  * @size: the size of the array
  *
  * Return: Nothing
