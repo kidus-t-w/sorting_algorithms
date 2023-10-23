@@ -1,9 +1,8 @@
 #include "sort.h"
 
 /**
- * insertion_sort_list - this function sorts a doubly linked list
- * based on the Insertion Sort Algorithm.
- * @list: the list to be sorted
+ * insertion_sort_list - function sorts a doubly linked list
+ * @list: list to be sorted
  *
  * Return: Nothing
  */
